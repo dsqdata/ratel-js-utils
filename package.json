@@ -1,0 +1,20 @@
+{
+  "name": "ratel-js-utils",
+  "version": "1.0.8",
+  "description": "JavaScript Common Utils By Ratel",
+  "main": "lib",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "node lib/test.js"
+  },
+  "files": [
+    "lib/tree/index.js",
+    "lib/index.js"
+  ],
+  "keywords": [
+    "ratel-js"
+  ],
+  "author": "ratel",
+  "license": "ISC",
+  "dependencies": {}
+}
